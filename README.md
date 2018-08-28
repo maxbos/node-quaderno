@@ -39,19 +39,6 @@ quaderno.taxes.calculate({
   });
 ```
 
-### Tax calculation
-```js
-quaderno.taxes.calculate({
-  country: 'NL',
-})
-  .then((tax) => {
-    console.log(tax);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
-```
-
 ### Invoice creation
 
 ```js
