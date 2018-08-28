@@ -12,7 +12,7 @@ of making tax management and invoicing easy for small businesses.
 Install with npm:
 
 ```sh
-npm install node-quaderno --save
+npm install quaderno --save
 ```
 
 ## Getting started
